@@ -1,6 +1,6 @@
-# Textutil is a free character counter tool that provides instant character count & word count statistics for a given text. 
+ Textutil is a free character counter tool that provides instant character count & word count statistics for a given text. 
 
-# Textutil reports the number of words and characters. Thus it is suitable for writing text with word/ character limit.
+Textutil reports the number of words and characters. Thus it is suitable for writing text with word/ character limit.
 
 <img src="https://i.imgur.com/SawZdnV.png"  >
 

@@ -2,7 +2,10 @@
 
 # Textutil reports the number of words and characters. Thus it is suitable for writing text with word/ character limit.
 
-<img src="Textutil_light.png" / >
+<img src="https://i.imgur.com/SawZdnV.png"  >
+
+<img src="https://i.imgur.com/Yf1Podd.png" >
+
 
 
 
